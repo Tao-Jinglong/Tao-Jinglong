@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 I’m currently learning and working on Human Pose Estimation, Human Motion Generation and 3D Reconstruction.
 
 ## How to reach me
-- [](https://github.com/Tao-Jinglong)
-- [](2579457013@qq.com)
-- [](2471478@stu.neu.edu.cn)
+- <https://github.com/Tao-Jinglong>
+- <2579457013@qq.com>
+- <2471478@stu.neu.edu.cn>
